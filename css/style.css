@@ -1,3 +1,32 @@
 img {
     width: 200px;
+    height: 120px;
+}
+
+h1 {
+    color: black;
+}
+
+
+p {
+    color: blue;
+}
+
+body {
+    text-align: center;
+}
+
+h1 {
+    color: skyblue;
+}
+
+p {
+    color: gray;
+}
+
+img {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    margin: 5px;
 }
